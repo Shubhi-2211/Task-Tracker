@@ -55,4 +55,4 @@ npm install
 # 3. Run the development server
 npm start
 
-## Deployed at: ![Link](https://shubhiupadhyay-tasktracker-app.netlify.app/)
+## Deployed at: [Link](https://shubhiupadhyay-tasktracker-app.netlify.app/)
