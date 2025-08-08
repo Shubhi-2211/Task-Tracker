@@ -4,7 +4,7 @@ A simple and interactive Task Tracker built with **React**. It allows users to a
 
 ![Task Tracker UI](pic1.png)
 
-![Task Tracker UI](pic1.png)
+![Task Tracker UI](pic2.png)
 
 ---
 
