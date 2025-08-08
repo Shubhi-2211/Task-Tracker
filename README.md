@@ -29,17 +29,7 @@ A simple and interactive Task Tracker built with **React**. It allows users to a
 
 ## 📁 Project Structure
 
-src/
-│
-├── components/
-│ ├── Header.js
-│ ├── Tasks.js
-│ ├── AddTask.js
-│
-├── App.js
-├── index.js
-└── styles.css (optional)
-
+![image](pic3.png)
 
 ---
 
@@ -54,5 +44,7 @@ npm install
 
 # 3. Run the development server
 npm start
+
+---
 
 ## Deployed at: (https://shubhiupadhyay-tasktracker-app.netlify.app/)
